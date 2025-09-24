@@ -10,17 +10,17 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Overview**
+# **Overview**
 This is a copy and paste project where a user get to type in the first box and can click on the "copy text" to copy the text and paste it in the other box by clicking the "paste text" button. The point of this project is test myself on my Javascript journey.
 
-**Screenshot**
+# **Screenshot**
 ![](./screenshot/desktop.png)
 ![](./screenshot/mobile.png)
 
-**Built with**
+# **Built with**
 HTML
 CSS
 JS
 
-**What I learned**
+# **What I learned**
 I learned about the navigator clipboard which is an API in JS. `navigator.clipboard.writeText()` for copying the text to the clipboard and `navigator.clipboard.readText()` for pasting the text. I just added `async` and `await` on the list of must know functionalities.
