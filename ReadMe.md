@@ -14,8 +14,7 @@
 This is a copy and paste project where a user get to type in the first box and can click on the "copy text" to copy the text and paste it in the other box by clicking the "paste text" button. The point of this project is test myself on my Javascript journey.
 
 # **Screenshot**
-![](./screenshot/desktop.png)
-![](./screenshot/mobile.png)
+![](./img/Screenshot.png)
 
 # **Built with**
 HTML
